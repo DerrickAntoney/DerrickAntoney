@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DerrickAntoney
-- 👀 I’m interested in mobile and frontend development
+- 👀 I’m interested in frontend and backend development
 - 🌱 I’m currently learning javascript and frontend frameworks
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me derrickantoney@gmail.com
