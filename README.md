@@ -37,7 +37,7 @@
 <a href="https://instagram.com/@derizantoney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@derizantoney" height="30" width="40" /></a>
 <a href="https://dribbble.com/https://dribbble.com/derrick_omondi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/derrick_omondi" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/derrickomondi20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/derrickomondi20" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@derrickosano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@derrickosano" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/derrickosano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@derrickosano" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@derrickantoney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@derrickantoney" height="30" width="40" /></a>
 </p>
 
