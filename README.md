@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [Resume](Resume)
 
-- ⚡ Fun fact **I coding is lifestyle**
+- ⚡ Fun fact **Coding is lifestyle**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
