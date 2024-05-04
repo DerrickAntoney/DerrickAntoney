@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on react applications<br><br>🌱 I’m learning Django, Node Js and React<br><br>👯 I’m looking to collaborate on front-end opensource projects<br><br>💬 Ask me about UX/UI Python, Flutter and Django<br><br>📝 I regularly design user interfaces on Figma<br><br>⚡ Fun fact Coding is lifestyle, shoot me a message we talk about your project<br>
+🔭 I’m currently working on react applications<br><br>🌱 I’m actively coding in Rails, Node Js and React<br><br>👯 I’m looking to collaborate on front-end opensource projects<br><br>💬 Ask me about UX/UI Python, Flutter and Django<br><br>📝 I regularly design user interfaces on Figma<br><br>⚡ Fun fact Coding is lifestyle, shoot me a message we talk about your project<br>
 
 
 ## 🌐 Socials:
